@@ -20,6 +20,10 @@ body {
     padding-top: 50px;
 }
 
+.sort--bubble {
+    padding-bottom: 50px;
+}
+
 .sort__block {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
